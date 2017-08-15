@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack-login",
+  "version": "1.0.0",
+  "description": "Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentomani/MEAN-Stack-Login.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack"
+  ],
+  "author": "Manivannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sentomani/MEAN-Stack-Login/issues"
+  },
+  "homepage": "https://github.com/sentomani/MEAN-Stack-Login#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}
